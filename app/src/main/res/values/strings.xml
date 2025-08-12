@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_food_intake_questionnaire">FoodIntakeQuestionnaire</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insight_screen">InsightScreen</string>
+    <string name="title_activity_registration_screen">Registration</string>
+    <string name="title_activity_settings_screen">SettingsScreen</string>
+    <string name="title_activity_nutri_coach_screen">NutriCoachScreen</string>
+    <string name="title_activity_clinician_login_screen">ClinicianLoginScreen</string>
+    <string name="title_activity_clinician_dash_board">ClinicianDashBoard</string>
+    <string name="title_activity_clinician_dash_board_screen">ClinicianDashBoardScreen</string>
+</resources>

@@ -1,0 +1,15 @@
+AI Use Declaration
+I used CursorAI [https://www.cursor.so/] and ChatGPT [https://chat.openai.com/] to assist in developing parts of my
+Android Studio project that involved repetitive code patterns or concepts I needed assistance on.
+These tools have helped me in these aspects:
+
+- Sync the Gemini API client into my Android Studio project
+
+- Redesign and refine the UI layout
+
+- Create and structure my Room database
+
+- Debug errors and resolve runtime issues throughout development
+
+The outputs from these tools were modified to suit my app's structure and logic. I reviewed all suggestions,
+adopted relevant solutions and ensured that I understood all implementations.
